@@ -7,5 +7,6 @@ int main()
     s="cheta";
     cout<<s<<endl;
     cout<<"lawdda";
+    cout<<"gudda";
     return 0;
 }
